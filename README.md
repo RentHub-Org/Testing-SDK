@@ -1,6 +1,6 @@
-# Testing @ellumina/flux SDK
+# Testing @ellumina/Renthub-BTFS SDK
 
-The `@ellumina/flux` SDK is designed to simplify interactions with the Flux ecosystem. It supports uploading files and JSON data, as well as retrieving data from Flux.
+The `@ellumina/renthub-btfs` SDK is designed to simplify interactions with the Renthub ecosystem. It supports uploading files and JSON data, as well as retrieving data from RENTHUB.
 
 ## Installation
 
