@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@ellumina/renthub-btfs": "^3.0.1",
+    "@types/node": "^22.7.5",
     "fs": "^0.0.1-security"
   }
 }
